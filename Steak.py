@@ -1,5 +1,5 @@
 #Melhoria sobre o cidgo inicial solicitado no ex01..
-#Teste
+#Versão com try except
 
 
 print("Escolha seu ponto preferido:")
