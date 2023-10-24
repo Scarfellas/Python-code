@@ -1,4 +1,5 @@
-#Melhoria sobre o cidgo inicial solicitado no ex01.
+#Melhoria sobre o cidgo inicial solicitado no ex01..
+#Teste
 
 
 print("Escolha seu ponto preferido:")
